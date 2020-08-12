@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains the solutions to all the assignments of Front-End Web Development with React
 
 ## Available Scripts
 
